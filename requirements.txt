@@ -1,0 +1,13 @@
+# OIBSIP Advanced Calculator — Requirements
+# ==========================================
+# All dependencies are from the Python Standard Library.
+# No third-party packages required.
+#
+# Standard Library modules used:
+#   tkinter   — GUI framework (included with Python 3.x)
+#   math      — Mathematical functions (sqrt, etc.)
+#   re        — Regular expressions for expression validation
+#
+# Python version: 3.8 or higher recommended
+
+# No pip packages required — pure stdlib project!
